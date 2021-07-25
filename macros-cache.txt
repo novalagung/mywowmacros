@@ -1,0 +1,19 @@
+VER 3 0000000000000003 "Mount Fly" "132172"
+#showtooltip
+/dismount [mounted]
+/castrandom [nomounted] Obsidian Worldbreaker, Wonderwing 2.0
+END
+VER 3 0000000000000002 "Mount Ground" "132190"
+#showtooltip
+/dismount [mounted]
+/castrandom [nomounted] Garn Nighthowl
+END
+VER 3 0000000000000004 "Mount Vendor" "136072"
+#showtooltip
+/dismount [mounted]
+/castrandom [nomounted] Traveler's Tundra Mammoth
+END
+VER 3 0000000000000001 "Parachute" "133685"
+#showtooltip
+/use 15
+END

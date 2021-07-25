@@ -1,0 +1,64 @@
+VER 3 0100000000000005 "AMurder of Crows" "645217"
+#showtooltip A Murder of Crows
+/petattack
+/cast A Murder of Crows
+/cast Bite
+END
+VER 3 010000000000000A "Aspect Turtle" "132360"
+#showtooltip Aspect of the Turtle
+/cancelaura Aspect of the Turtle
+/cast Aspect of the Turtle
+END
+VER 3 0100000000000003 "Barbed Shot" "2058007"
+#showtooltip Barbed Shot
+/petattack
+/cast Barbed Shot
+/cast Bite
+END
+VER 3 0100000000000007 "Cobra Shot" "461114"
+#showtooltip Cobra Shot
+/petattack
+/cast Cobra Shot
+/cast Bite
+END
+VER 3 0100000000000014 "Concussive Shot" "135860"
+#showtooltip Concussive Shot
+/petattack
+/cast Concussive Shot
+/cast Bite
+END
+VER 3 010000000000000C "Counter Shot" "249170"
+#showtooltip Counter Shot
+/cast [@mouseover,help,nodead][@focus,help,nodead][] Counter Shot
+END
+VER 3 0100000000000009 "Interlope" "132180"
+#showtooltip Misdirection
+/cast [@mouseover,help,nodead][@focus,help,nodead][] Interlope
+/cast [@mouseover,help,nodead][@focus,help,nodead][] Misdirection
+END
+VER 3 0100000000000008 "Intimidation" "132111"
+#showtooltip Intimidation
+/petpassive
+/petassist
+/petattack
+/cast Intimidation
+END
+VER 3 0100000000000002 "Kill Command" "132176"
+#showtooltip Kill Command
+/petattack
+/cast [pet] Kill Command; Call Pet 1
+/cast Growl
+/cast Bite
+END
+VER 3 0100000000000015 "Kill Shot" "236174"
+#showtooltip Kill Shot
+/petattack
+/cast Kill Shot
+/cast Bite
+END
+VER 3 0100000000000004 "Multi Shot" "132330"
+#showtooltip Multi-Shot
+/petattack
+/cast Multi-Shot
+/cast Bite
+END
