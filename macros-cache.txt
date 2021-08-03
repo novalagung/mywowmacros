@@ -1,9 +1,13 @@
+VER 3 0000000000000005 "clean stain" "462650"
+/target bhag'thera
+END
 VER 3 0000000000000003 "Mount Fly" "132172"
 #showtooltip
 /dismount [mounted]
-/castrandom [nomounted] Obsidian Worldbreaker, Wonderwing 2.0
+/castrandom [nomounted] Obsidian Worldbreaker
+#/castrandom [nomounted] Obsidian Worldbreaker, Sinfall Gravewing, Wonderwing 2.0
 END
-VER 3 0000000000000002 "Mount Ground" "132190"
+VER 3 0000000000000002 "Mount Ground" "132203"
 #showtooltip
 /dismount [mounted]
 /castrandom [nomounted] Garn Nighthowl

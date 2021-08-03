@@ -62,3 +62,13 @@ VER 3 0100000000000004 "Multi Shot" "132330"
 /cast Multi-Shot
 /cast Bite
 END
+VER 3 0100000000000017 "Pet Type Ability" "136224"
+#showtooltip [pet:Wolf]Primal Rage;[pet:Steeltusk]Survival of the Fittest
+#showcooldown
+/use [pet:Wolf]Primal Rage;[pet:Steeltusk]Survival of the Fittest
+END
+VER 3 0100000000000016 "Special Ability" "461121"
+#showtooltip [pet:Steeltusk]Trample; [pet:Wolf]Furious Bite
+#showcooldown
+/Cast [pet:Steeltusk]Trample; [pet:Wolf]Furious Bite
+END
