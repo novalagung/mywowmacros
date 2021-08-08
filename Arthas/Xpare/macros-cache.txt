@@ -47,7 +47,7 @@ VER 3 0100000000000002 "Kill Command" "132176"
 #showtooltip Kill Command
 /petattack
 /cast [pet] Kill Command; Call Pet 1
-/cast Growl
+/cast [nogroup] Growl
 /cast Bite
 END
 VER 3 0100000000000015 "Kill Shot" "236174"
