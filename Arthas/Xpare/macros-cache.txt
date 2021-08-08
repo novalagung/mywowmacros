@@ -31,11 +31,6 @@ VER 3 010000000000000C "Counter Shot" "249170"
 #showtooltip Counter Shot
 /cast [@mouseover,help,nodead][@focus,help,nodead][] Counter Shot
 END
-VER 3 0100000000000009 "Interlope" "132180"
-#showtooltip Misdirection
-/cast [@mouseover,help,nodead][@focus,help,nodead][] Interlope
-/cast [@mouseover,help,nodead][@focus,help,nodead][] Misdirection
-END
 VER 3 0100000000000008 "Intimidation" "132111"
 #showtooltip Intimidation
 /petpassive
@@ -55,6 +50,10 @@ VER 3 0100000000000015 "Kill Shot" "236174"
 /petattack
 /cast Kill Shot
 /cast Bite
+END
+VER 3 0100000000000009 "Misdirection" "132180"
+#showtooltip Misdirection
+/cast [@focus,help][help][@pet,exists] Misdirection
 END
 VER 3 0100000000000004 "Multi Shot" "132330"
 #showtooltip Multi-Shot
