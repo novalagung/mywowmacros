@@ -1,6 +1,3 @@
-VER 3 0000000000000005 "clean stain" "462650"
-/target bhag'thera
-END
 VER 3 0000000000000003 "Mount Fly" "132172"
 #showtooltip
 /dismount [mounted]

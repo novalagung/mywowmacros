@@ -4,6 +4,12 @@ VER 3 0100000000000005 "AMurder of Crows" "645217"
 /cast A Murder of Crows
 /cast Bite
 END
+VER 3 0100000000000018 "Arcane Shot" "132218"
+#showtooltip Arcane Shot
+/petattack
+/cast Arcane Shot
+/cast Bite
+END
 VER 3 010000000000000A "Aspect Turtle" "132360"
 #showtooltip Aspect of the Turtle
 /cancelaura Aspect of the Turtle
@@ -30,6 +36,12 @@ END
 VER 3 010000000000000C "Counter Shot" "249170"
 #showtooltip Counter Shot
 /cast [@mouseover,help,nodead][@focus,help,nodead][] Counter Shot
+END
+VER 3 010000000000001A "Flayed Shot" "3565719"
+#showtooltip Flayed Shot
+/petattack
+/cast Flayed Shot
+/cast Bite
 END
 VER 3 0100000000000008 "Intimidation" "132111"
 #showtooltip Intimidation
@@ -61,13 +73,25 @@ VER 3 0100000000000004 "Multi Shot" "132330"
 /cast Multi-Shot
 /cast Bite
 END
+VER 3 010000000000001B "Rapid Fire" "461115"
+#showtooltip Rapid Fire
+/petattack
+/cast Rapid Fire
+/cast Bite
+END
+VER 3 0100000000000019 "Steady Shot" "132213"
+#showtooltip Steady Shot
+/petattack
+/cast Steady Shot
+/cast Bite
+END
 VER 3 0100000000000017 "Pet Type Ability" "136224"
-#showtooltip [pet:Wolf]Primal Rage;[pet:Steeltusk]Survival of the Fittest
+#showtooltip [pet:Wolf]Primal Rage; [pet:Steeltusk]Survival of the Fittest; [pet:Mechanical]Master's Call
 #showcooldown
-/use [pet:Wolf]Primal Rage;[pet:Steeltusk]Survival of the Fittest
+/use [pet:Wolf]Primal Rage; [pet:Steeltusk]Survival of the Fittest; [pet:Mechanical]Master's Call
 END
 VER 3 0100000000000016 "Special Ability" "461121"
-#showtooltip [pet:Steeltusk]Trample; [pet:Wolf]Furious Bite
+#showtooltip [pet:Steeltusk]Trample; [pet:Wolf]Furious Bite; [pet:Mechanical]Defense Matrix
 #showcooldown
-/Cast [pet:Steeltusk]Trample; [pet:Wolf]Furious Bite
+/Cast [pet:Steeltusk]Trample; [pet:Wolf]Furious Bite; [pet:Mechanical]Defense Matrix
 END

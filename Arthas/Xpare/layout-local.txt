@@ -1,9 +1,9 @@
 Version: 1
 Frame: AllTheThings-Window-CurrentInstance
 FrameLevel: 1
-Anchor: LEFT
-X: 0
-Y: -97
+Anchor: BOTTOMRIGHT
+X: -60
+Y: 81
 W: 300
 H: 300
 Frame: AllTheThings-Window-Prime
@@ -37,7 +37,7 @@ H: 300
 Frame: AllTheThings-Window-AuctionData
 FrameLevel: 2
 Anchor: RIGHT
-X: -168
+X: -260
 Y: 0
 W: 300
 H: 518
