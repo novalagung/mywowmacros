@@ -73,25 +73,25 @@ VER 3 0100000000000004 "Multi Shot" "132330"
 /cast Multi-Shot
 /cast Bite
 END
+VER 3 0100000000000017 "Pet Type Ability" "136224"
+#showtooltip [pet:Wolf]Primal Rage; [pet:Steeltusk]Survival of the Fittest; [pet:Mechanical]Master's Call
+#showcooldown
+/use [pet:Wolf]Primal Rage; [pet:Steeltusk]Survival of the Fittest; [pet:Mechanical]Master's Call
+END
 VER 3 010000000000001B "Rapid Fire" "461115"
 #showtooltip Rapid Fire
 /petattack
 /cast Rapid Fire
 /cast Bite
 END
+VER 3 0100000000000016 "Special Ability" "461121"
+#showtooltip [pet:Steeltusk]Trample; [pet:Wolf]Furious Bite; [pet:Mechanical]Defense Matrix
+#showcooldown
+/Cast [pet:Steeltusk]Trample; [pet:Wolf]Furious Bite; [pet:Mechanical]Defense Matrix
+END
 VER 3 0100000000000019 "Steady Shot" "132213"
 #showtooltip Steady Shot
 /petattack
 /cast Steady Shot
 /cast Bite
-END
-VER 3 0100000000000017 "Pet Type Ability" "136224"
-#showtooltip [pet:Wolf]Primal Rage; [pet:Steeltusk]Survival of the Fittest; [pet:Mechanical]Master's Call
-#showcooldown
-/use [pet:Wolf]Primal Rage; [pet:Steeltusk]Survival of the Fittest; [pet:Mechanical]Master's Call
-END
-VER 3 0100000000000016 "Special Ability" "461121"
-#showtooltip [pet:Steeltusk]Trample; [pet:Wolf]Furious Bite; [pet:Mechanical]Defense Matrix
-#showcooldown
-/Cast [pet:Steeltusk]Trample; [pet:Wolf]Furious Bite; [pet:Mechanical]Defense Matrix
 END
