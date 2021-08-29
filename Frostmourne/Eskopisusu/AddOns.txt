@@ -1,0 +1,3 @@
+Bartender4: disabled
+RangeDisplay: disabled
+RangeDisplay_Options: disabled

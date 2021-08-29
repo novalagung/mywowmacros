@@ -1,3 +1,7 @@
+VER 3 0000000000000007 "Invisible" "132299"
+#showtooltip
+/use 6
+END
 VER 3 0000000000000003 "Mount Fly" "132172"
 #showtooltip
 /dismount [mounted]
@@ -17,4 +21,14 @@ END
 VER 3 0000000000000001 "Parachute" "133685"
 #showtooltip
 /use 15
+END
+VER 3 0000000000000006 "Trinket Bottom" "132509"
+#showtooltip
+/use 14
+/script UIErrorsFrame:Clear()
+END
+VER 3 0000000000000005 "Trinket Top" "132508"
+#showtooltip
+/use 13
+/script UIErrorsFrame:Clear()
 END
