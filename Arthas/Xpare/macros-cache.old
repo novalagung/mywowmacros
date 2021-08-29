@@ -1,0 +1,114 @@
+VER 3 0100000000000005 "AMurder of Crows" "645217"
+#showtooltip A Murder of Crows
+/petattack
+/cast A Murder of Crows
+/cast Claw
+/cast Bite
+/cast Smack
+END
+VER 3 0100000000000018 "Arcane Shot" "132218"
+#showtooltip Arcane Shot
+/petattack
+/cast Arcane Shot
+/cast Claw
+/cast Bite
+/cast Smack
+END
+VER 3 010000000000001E "Aspect of Wild" "136074"
+#showtooltip Aspect of the Wild
+/petassist
+/petattack
+/cast Aspect of the Wild
+/startattack
+/cast Bloodshed
+/cast Bestial Wrath
+END
+VER 3 010000000000000A "Aspect Turtle" "132360"
+#showtooltip Aspect of the Turtle
+/cancelaura Aspect of the Turtle
+/cast Aspect of the Turtle
+END
+VER 3 0100000000000003 "Barbed Shot" "2058007"
+#showtooltip Barbed Shot
+/petattack
+/cast Barbed Shot
+/cast Claw
+/cast Bite
+/cast Smack
+END
+VER 3 0100000000000007 "Cobra Shot" "461114"
+#showtooltip Cobra Shot
+/petattack
+/cast Cobra Shot
+/cast Claw
+/cast Bite
+/cast Smack
+END
+VER 3 0100000000000014 "Concussive Shot" "135860"
+#showtooltip Concussive Shot
+/petattack
+/cast Concussive Shot
+/cast Claw
+/cast Bite
+/cast Smack
+END
+VER 3 010000000000000C "Counter Shot" "249170"
+#showtooltip Counter Shot
+/cast [@mouseover,help,nodead][@focus,help,nodead][] Counter Shot
+END
+VER 3 010000000000001A "Flayed Shot" "3565719"
+#showtooltip Flayed Shot
+/petattack
+/cast Flayed Shot
+/cast Claw
+/cast Bite
+/cast Smack
+END
+VER 3 0100000000000008 "Intimidation" "132111"
+#showtooltip Intimidation
+/petpassive
+/petassist
+/petattack
+/cast Intimidation
+END
+VER 3 0100000000000002 "Kill Command" "132176"
+#showtooltip Kill Command
+/petattack
+/cancelaura Aspect of the Turtle
+/cast [pet] Kill Command; Call Pet 1
+/cast [nogroup] Growl
+/cast Claw
+/cast Bite
+/cast Smack
+END
+VER 3 0100000000000015 "Kill Shot" "236174"
+#showtooltip Kill Shot
+/petattack
+/stopcasting
+/cast Kill Shot
+/cast Bite
+/cast Claw
+/cast Smack
+END
+VER 3 0100000000000009 "Misdirection" "132180"
+#showtooltip Misdirection
+/cast [@focus,exists][@pet,exists][@mouseover] Misdirection
+END
+VER 3 0100000000000004 "Multi Shot" "132330"
+#showtooltip Multi-Shot
+/petattack
+/cast Multi-Shot
+/cast Claw
+/cast Bite
+/cast Smack
+END
+VER 3 0100000000000017 "Pet Type Ability" "136224"
+#showtooltip [pet:Wolf]Primal Rage; [pet:Steeltusk]Survival of the Fittest; [pet:Mechanical]Master's Call
+#showcooldown
+/use [pet:Wolf]Primal Rage; [pet:Steeltusk]Survival of the Fittest; [pet:Mechanical]Master's Call
+END
+VER 3 0100000000000016 "Special Ability" "461121"
+#showtooltip [pet:Steeltusk]Trample; [pet:Wolf]Furious Bite; [pet:Mechanical]Defense Matrix
+#showcooldown
+/Cast [pet:Steeltusk]Trample; [pet:Wolf]Furious Bite; [pet:Mechanical]Defense Matrix
+END
