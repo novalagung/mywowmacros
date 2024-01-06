@@ -1,0 +1,19 @@
+
+RaiderIO_Config = {
+	["profilePoint"] = {
+		["y"] = 0,
+		["x"] = -16.00000190734863,
+		["point"] = "TOPLEFT",
+	},
+}
+RaiderIO_LastCharacter = "us-Xpare-illidan"
+RaiderIO_MissingCharacters = {
+	["us-Xpare-illidan"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+}

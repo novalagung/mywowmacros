@@ -1,0 +1,15 @@
+Version: 1
+Frame: Narci_MinimapButton
+FrameLevel: 62
+Anchor: TOPRIGHT
+X: -48
+Y: -225
+W: 36
+H: 36
+Frame: GroupLootHistoryFrame
+FrameLevel: 1
+Anchor: LEFT
+X: 50
+Y: 36
+W: 261
+H: 590

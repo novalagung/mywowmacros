@@ -1,0 +1,34 @@
+
+PasteDB = {
+	["profileKeys"] = {
+		["Xpare - Arthas"] = "Xpare - Arthas",
+		["Xpare - Illidan"] = "Xpare - Illidan",
+		["Xpare - Frostmourne"] = "Xpare - Frostmourne",
+		["Eskopisusu - Frostmourne"] = "Eskopisusu - Frostmourne",
+	},
+	["profiles"] = {
+		["Xpare - Arthas"] = {
+			["whispertarget"] = "",
+			["where"] = "Default",
+			["loaded"] = true,
+			["trimwhitespace"] = true,
+			["pos"] = {
+			},
+			["minimap"] = {
+				["minimapPos"] = 15.12099933055758,
+			},
+		},
+		["Xpare - Illidan"] = {
+			["loaded"] = true,
+			["minimap"] = {
+				["minimapPos"] = 20.33570773550245,
+			},
+		},
+		["Xpare - Frostmourne"] = {
+			["loaded"] = true,
+		},
+		["Eskopisusu - Frostmourne"] = {
+			["loaded"] = true,
+		},
+	},
+}

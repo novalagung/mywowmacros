@@ -1,0 +1,94 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0523,
+	["LastPlayerFullName"] = "Eskopisusu-Frostmourne",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 38661,
+			["Level"] = 29,
+			["Link"] = "|cff0070dd|Hitem:38661::::::::24:250:::::::::|h[Greathelm of the Scourge Champion]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 38662,
+			["Level"] = 29,
+			["Link"] = "|cff0070dd|Hitem:38662::::::::24:250:::::::::|h[Bladed Ebon Amulet]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 1744,
+			["Level"] = 30,
+			["Link"] = "|cff9d9d9d|Hitem:1744::::::::27:250:::1:6656:2:9:26:28:2:::::|h[Laced Mail Shoulderpads]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 53437,
+			["Level"] = 31,
+			["Link"] = "|cff1eff00|Hitem:53437::::::::27:250::11:1:3631:2:28:2:9:27:::::|h[Salvoblast Tunic]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 38668,
+			["Level"] = 29,
+			["Link"] = "|cff0070dd|Hitem:38668::::::::24:250:::::::::|h[The Plaguebringer's Girdle]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 38669,
+			["Level"] = 29,
+			["Link"] = "|cff0070dd|Hitem:38669::::::::24:250:::::::::|h[Engraved Saronite Legplates]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 38670,
+			["Level"] = 29,
+			["Link"] = "|cff0070dd|Hitem:38670::::::::24:250:::::::::|h[Greaves of the Slaughter]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 53432,
+			["Level"] = 32,
+			["Link"] = "|cff0070dd|Hitem:53432::::::::27:250::11:2:3631:6697:2:28:2:9:27:::::|h[Pricey Bracers]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 38667,
+			["Level"] = 29,
+			["Link"] = "|cff0070dd|Hitem:38667::::::::24:250:::::::::|h[Bloodbane's Gauntlets of Command]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 38672,
+			["Level"] = 29,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cff0070dd|Hitem:38672::::::::24:250:::::::::|h[Keleseth's Signet Ring]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 38671,
+			["Level"] = 29,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cff0070dd|Hitem:38671::::::::24:250:::::::::|h[Valanar's Signet Ring]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 38674,
+			["Level"] = 29,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cff0070dd|Hitem:38674::::::::24:250:::::::::|h[Soul Harvester's Charm]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 38675,
+			["Level"] = 29,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cff0070dd|Hitem:38675::::::::24:250:::::::::|h[Signet of the Dark Brotherhood]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 38664,
+			["Level"] = 29,
+			["Link"] = "|cff0070dd|Hitem:38664::::::::24:250:::::::::|h[Sky Darkener's Shroud of the Unholy]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 53400,
+			["Level"] = 31,
+			["Link"] = "|cff0070dd|Hitem:53400::::::::26:250::11:2:3631:6697:2:28:2:9:25:::::|h[Arborcide Axe]|h|r",
+		}, -- [16]
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "DEATHKNIGHT",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

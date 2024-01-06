@@ -1,0 +1,65 @@
+
+WITDB = {
+	["Version"] = "v4.1.1",
+	["Settings"] = {
+		["CustomItemPrices"] = {
+		},
+		["OECustomPriceSource"] = "market",
+		["AuctionatorLegacyPricingSelect"] = "market",
+		["OEPricingSelect"] = "market",
+		["FarmPlannerIds"] = {
+		},
+		["BagValueMinPrice"] = 0,
+		["TUJPricingSelect"] = "market",
+		["HideMinimapIcon"] = false,
+		["Modules"] = {
+			["Dashboard"] = {
+				["ShowCurrentContent"] = true,
+				["Farms"] = {
+				},
+			},
+		},
+		["AuctionatorPricingSelect"] = "market",
+		["TUJLegacyPricingSelect"] = "market",
+		["CustomPriceSource"] = "DBMinBuyout",
+		["PricingSelect"] = "DBMarket",
+		["Recorder"] = {
+		},
+		["OELegacyCustomPriceSource"] = "market",
+		["AuctionatorLegacyCustomPriceSource"] = "market",
+		["DataSource"] = 1,
+		["MinimapIcon"] = {
+			["minimapPos"] = 20.61362099327833,
+		},
+		["BelowTresholdValue"] = 1,
+		["AuctionatorCustomItemPrices"] = {
+		},
+		["RecorderMinPrice"] = 0,
+		["BagValueMinQuality"] = 1,
+		["TUJCustomItemPrices"] = {
+		},
+		["OELegacyPricingSelect"] = "market",
+		["LegacyCustomPriceSource"] = "DBMinBuyout",
+		["RecorderMinQuality"] = 1,
+		["TUJLegacyCustomPriceSource"] = "market",
+		["TUJCustomPriceSource"] = "market",
+		["FlipEditor"] = {
+		},
+		["AuctionatorCustomPriceSource"] = "market",
+		["OECustomItemPrices"] = {
+		},
+		["LegacyPricingSelect"] = "DBMarket",
+	},
+	["UserData"] = {
+		["IgnoredFarms"] = {
+		},
+		["Farms"] = {
+		},
+		["ColumnFilters"] = {
+		},
+		["Flips"] = {
+		},
+		["IgnoredFlips"] = {
+		},
+	},
+}
